@@ -1,4 +1,4 @@
-# Fall-2019
+# GSD6338: Introduction to Computational Design, Fall 2019
 
 ![](gsd6338_fall2019_student_projects_catalog.gif)
 
